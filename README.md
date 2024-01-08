@@ -56,10 +56,12 @@ vii. Add, Update and Delete records from web app
 
 5. Demo:
 - All Task UI
+![Screenshot 2024-01-08 153505](https://github.com/Chetan090302/Springboot-API/assets/134623805/8e99966f-93b8-4da6-b17d-979e76920420)
 
 -Add Task UI
 
 -Update Task UI
+![Screenshot 2024-01-08 153505](https://github.com/Chetan090302/Springboot-API/assets/134623805/8e99966f-93b8-4da6-b17d-979e76920420)
 
 -deleted Task UI
 ![Screenshot 2024-01-08 155403](https://github.com/Chetan090302/Springboot-API/assets/134623805/c753c503-3e74-4fa8-b228-ce53a67f7cdf)
