@@ -3,29 +3,28 @@ TASK Management (CRUD) System
 
 1. Project Description:
 A Spring MVC web application for TASK Management with the following CRUD operations:
-
-Get all the Tasks
-Add a new Task
-Update an Task
+Get all the Tasks,
+Add a new Task,
+Update an Task,
 Delete an Task
 
 
 2. Tech Stack:
-Java 17
-Spring Boot
-HTML
-Bootstrap
-Thymeleaf
-Spring MVC
-Spring Data JPA
-Hibernate
+Java 17,
+Spring Boot,
+HTML,
+Bootstrap,
+Thymeleaf,
+Spring MVC,
+Spring Data JPA,
+Hibernate,
 Maven
 
 MySql database
 4. Installing:
 i. Clone the git repo
 
-https://github.com/AAdewunmi/SpringBoot-Employee-Management-System.git
+https://github.com/Chetan090302/Springboot-API
 ii. Open project folder
 
 iii. Explore
