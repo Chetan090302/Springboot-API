@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Controller
-@RequestMapping("/emp")
+@RequestMapping("/employee")
 public class Taskcontroller {
     @Autowired
     TaskService taskservice;
